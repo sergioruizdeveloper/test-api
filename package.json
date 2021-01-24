@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sergioruizdeveloper/test-api#readme",
   "dependencies": {
+    "brew": "^0.0.8",
     "json-server": "^0.16.3"
   }
 }
