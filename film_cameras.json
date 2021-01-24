@@ -1,0 +1,32 @@
+{
+    "cameras":[
+        {
+            "id":1,
+            "brand":"Nikon",
+            "model":"Nikon F100",
+            "country":"Japan",
+            "format" : "135"
+        },
+        {
+            "id":2,
+            "brand":"Lomo",
+            "model":"Smena8M",
+            "country":"URSS",
+            "format" : "135"
+        },
+        {
+            "id":3,
+            "brand":"Nikon",
+            "model":"Nikon FE2",
+            "country":"Japan",
+            "format" : "135"
+        },
+        {
+            "id":4,
+            "brand":"Pentax",
+            "model":"645",
+            "country":"Japan",
+            "format" : "120"
+        }
+    ]
+}
