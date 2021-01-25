@@ -27,6 +27,13 @@
             "model":"645",
             "country":"Japan",
             "format" : "120"
+        },
+        {
+            "id":5,
+            "brand":"Canon",
+            "model":"A1",
+            "country":"Japan",
+            "format" : "120"
         }
     ]
 }
